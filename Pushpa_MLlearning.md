@@ -1,7 +1,9 @@
 Python
 
 •Programming
+
 •Libraries
+
   •pandas
   •numpy
   •matplotlib
@@ -11,13 +13,18 @@ Python
 Data science
 
 •Probability
+
 •Statistics
 
 ML
 
 •Linear regression
+
 •Logistic regression
+
 •KNN
+
 •Random forest
+
 •Decision tree
 
