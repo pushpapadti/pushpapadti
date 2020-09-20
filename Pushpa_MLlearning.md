@@ -4,7 +4,7 @@ Python
 •Libraries
   •pandas
   •numpy
-  •matolotlib
+  •matplotlib
   •sklearn
   And many more...
 
