@@ -1,4 +1,5 @@
 Python
+
 •Programming
 •Libraries
   •pandas
@@ -8,10 +9,12 @@ Python
   And many more...
 
 Data science
+
 •Probability
 •Statistics
 
 ML
+
 •Linear regression
 •Logistic regression
 •KNN
